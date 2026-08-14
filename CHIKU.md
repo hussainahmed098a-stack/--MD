@@ -191,4 +191,62 @@
 
 
 ---
+╭━━━〔 🤖 BOT-CHIKU MENU 〕━━━⬣
+┃ 👑 Owner : 𝐂ʜɪᴋᴜ×͜×𝕏ʜᴏᴡᴅʜᴜʀʏ
+┃ 📞 Number : +8801851449907
+┃ ⚡ Prefix : .
+┃ 🌐 Mode : Public
+╰━━━━━━━━━━━━━━━━━━⬣
 
+╭━━━〔 📋 MAIN MENU 〕━━━⬣
+┃ .menu
+┃ .owner
+┃ .ping
+┃ .alive
+┃ .runtime
+┃ .uptime
+╰━━━━━━━━━━━━━━━━━━⬣
+
+╭━━━〔 👑 OWNER MENU 〕━━━⬣
+┃ .restart
+┃ .shutdown
+┃ .setppbot
+┃ .setname
+┃ .block
+┃ .unblock
+╰━━━━━━━━━━━━━━━━━━⬣
+
+╭━━━〔 👥 GROUP MENU 〕━━━⬣
+┃ .tagall
+┃ .hidetag
+┃ .kick
+┃ .add
+┃ .promote
+┃ .demote
+┃ .mute
+┃ .unmute
+╰━━━━━━━━━━━━━━━━━━⬣
+
+╭━━━〔 🎮 FUN MENU 〕━━━⬣
+┃ .quote
+┃ .joke
+┃ .truth
+┃ .dare
+┃ .fact
+┃ .meme
+╰━━━━━━━━━━━━━━━━━━⬣
+
+╭━━━〔 🛠️ UTILITY MENU 〕━━━⬣
+┃ .weather
+┃ .time
+┃ .translate
+┃ .calc
+┃ .qr
+┃ .shorturl
+╰━━━━━━━━━━━━━━━━━━⬣
+
+╭━━━〔 💎 BOT-CHIKU 〕━━━⬣
+┃ Owner : 𝐂ʜɪᴋᴜ×͜×𝕏ʜᴏᴡᴅʜᴜʀʏ
+┃ Status : Online ✅
+┃ Version : v1.0.0
+╰━━━━━━━━━━━━━━━━━━⬣
